@@ -1,7 +1,7 @@
 # Template information section
-name: "surf_mvp_module"
+name: "moon_mvp_module"
 summary: "Template for creating MVP modules."
-author: "Ivan Smetanin"
+author: "Ivan Smetanin", "mkdk"
 version: "1.0.0"
 license: "MIT"
 
