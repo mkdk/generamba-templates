@@ -10,11 +10,11 @@ The detailed information about a template structure is available in [Generamba W
 
 ## List of templates
 
-* [Surf MVP module] - generates a new module of **MVP** architecture
+* [Moon MVP module]() - generates a new module of **MVP** architecture
 
-* [Surf MVP Coordinatable module]() - generates a new module of architecture **MVP** with routing using Coordinators.
+* [Moon MVP Coordinatable module]() - generates a new module of architecture **MVP** with routing using Coordinators.
 
-* [Surf MVP Coordinatable Alert module]() - generates a new alert module of architecture **MVP** with routing using Coordinators.
+* [Moon MVP Coordinatable Alert module]() - generates a new alert module of architecture **MVP** with routing using Coordinators.
 
 ## Installation
 
