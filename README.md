@@ -10,11 +10,11 @@ The detailed information about a template structure is available in [Generamba W
 
 ## List of templates
 
-* [Surf MVP module](https://github.com/surfstudio/generamba-templates/tree/master/surf_mvp_module) - generates a new module of **Surf MVP** architecture
+* [Surf MVP module] - generates a new module of **MVP** architecture
 
-* [Surf MVP Coordinatable module](https://github.com/surfstudio/generamba-templates/tree/master/surf_mvp_coordinatable_module) - generates a new module of architecture **Surf MVP** with routing using Coordinators.
+* [Surf MVP Coordinatable module]() - generates a new module of architecture **MVP** with routing using Coordinators.
 
-* [Surf MVP Coordinatable Alert module](https://github.com/surfstudio/generamba-templates/tree/master/surf_mvp_coordinatable_alert) - generates a new alert module of architecture **Surf MVP** with routing using Coordinators.
+* [Surf MVP Coordinatable Alert module]() - generates a new alert module of architecture **MVP** with routing using Coordinators.
 
 ## Installation
 
@@ -23,9 +23,11 @@ To install a template just put these strings in your `Rambafile` and run `genera
 ```
 ### Catalogs
 catalogs:
-- 'https://github.com/surfstudio/generamba-templates'
+- 'https://github.com/mkdk/generamba-templates'
 
 ### Templates
 templates:
 - {name: needed_template_name}
 ```
+
+## Special thanks to @ismetanin, @s4x
