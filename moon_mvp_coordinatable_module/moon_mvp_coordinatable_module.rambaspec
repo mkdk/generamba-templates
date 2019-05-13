@@ -1,7 +1,7 @@
 # Template information section
 name: "moon_mvp_module"
 summary: "Template for creating MVP modules with coordinator."
-author: "Serge Nanaev", "mkdk"
+author: "Serge Nanaev, mkdk"
 version: "1.0.0"
 license: "MIT"
 

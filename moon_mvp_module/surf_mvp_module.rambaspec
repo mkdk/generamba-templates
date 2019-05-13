@@ -1,7 +1,7 @@
 # Template information section
 name: "moon_mvp_module"
 summary: "Template for creating MVP modules."
-author: "Ivan Smetanin", "mkdk"
+author: "Ivan Smetanin, mkdk"
 version: "1.0.0"
 license: "MIT"
 
